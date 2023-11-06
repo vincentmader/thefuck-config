@@ -15,7 +15,7 @@
 no_colors = False
 # debug = False
 # priority = {}
-# history_limit = None
+history_limit = None
 # alter_history = True
 # wait_slow_command = 15
 # slow_commands = ['lein', 'react-native', 'gradle', './gradlew', 'vagrant']
